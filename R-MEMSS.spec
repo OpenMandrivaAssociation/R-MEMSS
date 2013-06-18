@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.9_0
-Release:          1
+Release:          2
 Summary:          Data sets from Mixed-effects Models in S
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
